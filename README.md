@@ -1,11 +1,10 @@
 # kali_buildscript
 
-This is a bash script to automate building Metasploitable3 from Kali Rolling 2017.3
-
+This is a bash script to automate my configuration of Kali linux.
 
 *Purpose*
 
-Just a simple bash script to automate the initial setup of a fresh kali install.
+Just a simple bash script to automate the initial setup of a fresh Kali install.
 
 
 *Process*
