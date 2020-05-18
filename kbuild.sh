@@ -4,6 +4,7 @@
 
 ##  ( X )    Fully update Kali             ##
 ##  (   )    Install necessary packages    ##
+##  (   )    Download useful binaries      ##
 ##  (   )    Remove unnecessary packages   ##
 ##  (   )    Configure the environment     ##
 ##TODO add additional github tools, as needed (powersploit,empire,impacket,bloodhound,etc)
@@ -50,6 +51,8 @@ apt autoclean
 apt -y install virtualbox vlc synaptic hexchat veil-evasion git gparted firefox-esr chromium socat terminator gedit gobuster
 wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
 chmod a+rx /usr/local/bin/youtube-dl
+
+##  (   )    Download useful binaries      ##
 
 ##  (   )    Remove unnecessary packages   ##
 
